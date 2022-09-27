@@ -1,2 +1,2 @@
 # Lab2Emt
-Labaratory exercise using React Js as frontend and Spring Boot as backend
+Labaratory exercise using React JS as frontend and Spring Boot as backend
